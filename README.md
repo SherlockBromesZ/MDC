@@ -1,4 +1,3 @@
-```
 # Explicação do Código
 
 Este código é uma implementação do algoritmo de Euclides para encontrar o maior divisor comum (MDC) de dois números inteiros.
@@ -68,4 +67,3 @@ Imprime o resultado da função `gcd`.
 ### Retorno de Sucesso
 
 Indica que o programa terminou com sucesso.
-```
